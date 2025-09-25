@@ -1,5 +1,8 @@
 # Verification info for PuushdotCoinV104
 
+#### Cronoscan link (verified)
+https://cronoscan.com/address/0xFf47e002071683501f9ca02027Efe07752ABF901#code
+
 #### Address
 0xFf47e002071683501f9ca02027Efe07752ABF901
 
